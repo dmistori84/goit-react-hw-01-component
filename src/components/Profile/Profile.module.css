@@ -1,0 +1,35 @@
+.profile {
+    background-color: rgba(208, 242, 222, 0.945);
+    max-width: max-content;
+    padding: 20px;
+    margin: 20px;
+}
+
+.stats {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+.label {
+    padding-right: 10px;
+}
+
+.quantity {
+    display: flex;
+    font-size: 14px;
+    color: #083817;
+    font-weight: bold;
+}
+
+.avatar {
+    width: 200px;
+    border: 1px solid green;
+    border-radius: 50%;
+    background-color: rgb(212, 246, 245);
+}
+
+.name {
+    font-size: 18px;
+    font-weight: bold;
+}

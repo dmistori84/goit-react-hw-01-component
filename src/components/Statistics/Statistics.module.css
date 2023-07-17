@@ -1,0 +1,27 @@
+.statistics {
+    border: 1px solid rgb(130, 207, 172);;
+    max-width: max-content;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+.title {
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+
+.statList {
+    display: flex;
+    list-style: none;
+}
+
+.item {
+    padding: 20px;
+    border: 1px solid rgb(130, 207, 172);
+    margin-right: 10px;
+    background-color: rgb(130, 207, 172);
+}
+
+.label {
+    display: flex;
+}
